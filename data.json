@@ -1,0 +1,314 @@
+{
+  "actividades": {
+    "Tecnología de la Conectividad": {
+      "1": ["Conexiones Oceánicas","1° Cuest. Eval.","Orígenes de Internet","Conectados Trivia","2° Cuest. Eval.","Análisis Social de Facebook","3° Cuest. Eval.","% Asistencia","Nota final"],
+      "2": ["", "", ""]
+    },
+    "Aplicaciones Informáticas": {
+      "1": ["", "", ""],
+      "2": ["", "", ""]
+    }
+  },
+  "estudiantes": {
+    "016xrb": {
+      "nombre": "Diaz Oriana",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB", "5.5", "MB(FT)", "MB+", "10", "AP+", "8.46", "95%", "8 (Ocho)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+    "128zmc": {
+      "nombre": "Ferreyra Lautaro",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB", "9.67", "MB", "MB+", "8.33", "-", "8.85", "95%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+    "243slq": {
+      "nombre": "Gonzáles Fiorella",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB", "6.5", "MB+", "MB+", "6.67", "AP+", "6.54", "100%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "354avw": {
+      "nombre": "Ibacache Lucas",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "8", "MB+", "MB+", "9", "AP++", "7.82", "100%", "10 (Diez)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "467hyt": {
+      "nombre": "Isaac Camila",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "5.83", "MB", "MB", "9.67", "AP++", "7.69", "75%", "7 (Siete)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "589jrp": {
+      "nombre": "Jara Santino",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "9", "MB+", "MB+", "9", "AP+", "6.15", "95%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "694knx": {
+      "nombre": "Maccarone Bruno",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "7.67", "MB+(FT)", "MB+", "8.75", "AP+", "8.59", "100%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "702cml": {
+      "nombre": "Maimone Jazmin",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB", "-", "MB(FT)", "MB+", "8.67", "AP++", "7.69", "90%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "839qew": {
+      "nombre": "Marin Yuliana",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "7", "MB+", "MB+", "9", "AP++", "-", "85%", "8 (Ocho)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "905ztu": {
+      "nombre": "Muñoz Alexander",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "10", "MB", "MB+", "8.67", "AP++", "8.46", "85%", "10 (Diez)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "010dgb": {
+      "nombre": "Neil Damian",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "10", "MB+", "-", "10", "AP++", "9.23", "90%", "10 (Diez)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "124mra": {
+      "nombre": "Pacheco Máximo",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB(FT)", "4.83", "MB(FT)", "MB", "7.83", "AP+", "8.46", "100%", "7 (Siete)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "239nlq": {
+      "nombre": "Porma Shayla",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "7.17", "MB", "MB+", "-", "AP", "9.74", "85%", "8 (Ocho)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "348rty": {
+      "nombre": "Reyes Tiago",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "6.33", "MB+", "MB+", "7.83", "AP++", "8.46", "95%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "456xbv": {
+      "nombre": "Riffo Bianca",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "7.67", "MB+", "MB+", "9.08", "AP+", "9.36", "90%", "10 (Diez)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "563wqa": {
+      "nombre": "Rivera Facundo",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["B", "7", "B", "MB", "10", "AP", "9.23", "95%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "678kfj": {
+      "nombre": "Sandoval Juan Pablo",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "5.33", "MB+", "MB+", "8.92", "AP+", "6.15", "95%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "781gsv": {
+      "nombre": "Torres Luciano",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB(FT)", "9.33", "MB(FT)", "MB", "9", "-AP++", "8.27", "95%", "9 (Nueve)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "890hwd": {
+      "nombre": "Villarruel Agostina",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "8.17", "MB+", "MB+", "10", "AP++", "8.01", "90%", "10 (Diez)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+      "017qtx": {
+      "nombre": "Zuñiga Florencia",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "8.17", "MB+", "MB+", "7.17", "AP++", "5.38", "95%", "8 (Ocho)"],
+          "2": []
+        },
+        "Aplicaciones Informáticas": {
+          "1": ["", "", ""],
+          "2": []
+        }
+      }
+    },
+
+
+
+      "781xrl": {
+      "nombre": "Albornoz Tiziana",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "7.33", "MB+", "MB", "7.50", "AP+", "7.12", "75%", "8 (Ocho)"],
+          "2": []
+        }
+      }
+    },
+      "823dqm": {
+      "nombre": "Cañon Francisco",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB", "7.08", "MB(FT)", "MB+", "6.50", "AP", "7.82", "75%", "8 (Ocho)"],
+          "2": []
+        }
+      }
+    },
+      "954hty": {
+      "nombre": "Closas Alejo",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["", "6.88", "", "", "7.58", "", "5.77", "50%", "En Curso"],
+          "2": []
+        }
+      }
+    },
+      "106cga": {
+      "nombre": "Constantini Dante",
+      "notas": {
+        "Tecnología de la Conectividad": {
+          "1": ["MB+", "2.5", "MB+", "MB", "6.50", "AP++", "10", "95%", "9 (Nueve)"],
+          "2": []
+        }
+      }
+    }
+  }
+}
+
